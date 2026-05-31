@@ -80,4 +80,3 @@ Computer Engineering Student | MERN Stack Developer | Flutter Developer | DSA En
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
