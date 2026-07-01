@@ -71,7 +71,7 @@ Upload `after.png`
 * Custom Sorting Rules
 * Bulk Folder Processing
 * Cross-Platform Support
-
+* Automatic File Organization on Startup
 ## 👨‍💻 Author
 
 **Yahya Bandarkar**
