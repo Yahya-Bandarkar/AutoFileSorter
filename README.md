@@ -70,7 +70,7 @@ Upload `after.png`
 * Dark Mode
 * Custom Sorting Rules
 * Bulk Folder Processing
-* Multi-Threaded Processing 
+
 
 
 ## 👨‍💻 Author
