@@ -70,6 +70,7 @@ Upload `after.png`
 * Dark Mode
 * Custom Sorting Rules
 * Bulk Folder Processing
+* File Sorting Statistics & Analytics
 
 
 
