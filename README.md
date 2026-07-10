@@ -71,6 +71,7 @@ Upload `after.png`
 * Custom Sorting Rules
 * Bulk Folder Processing
 * File Sorting Statistics & Analytics
+* Real-Time Folder Monitoring
 
 
 
