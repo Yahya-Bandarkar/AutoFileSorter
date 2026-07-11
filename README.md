@@ -19,6 +19,7 @@ A Python desktop application built with Tkinter that automatically organizes fil
 * Session-based activity logging
 * Windows folder integration
 * Easy-to-use graphical interface
+* One-click folder organization
 
 ## 🛠️ Technologies Used
 
