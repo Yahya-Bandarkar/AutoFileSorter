@@ -73,6 +73,7 @@ Upload `after.png`
 * Bulk Folder Processing
 * File Sorting Statistics & Analytics
 * Real-Time Folder Monitoring
+* Undo/Rollback Log
 
 
 
