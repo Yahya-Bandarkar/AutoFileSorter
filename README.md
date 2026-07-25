@@ -74,7 +74,7 @@ Upload `after.png`
 * File Sorting Statistics & Analytics
 * Real-Time Folder Monitoring
 * Undo/Rollback Log
-* File Type Preview & Filters
+
 
 
 ## 👨‍💻 Author
