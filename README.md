@@ -37,7 +37,7 @@ A Python desktop application built with Tkinter that automatically organizes fil
 3. The application scans all files.
 4. Files are categorized based on their extensions.
 5. Files are moved into organized folders automatically.
-6. Operations are logged for undo functionality.
+6. Operations are logged for undo functionalities.
 
 ## 📁 Supported Categories
 
